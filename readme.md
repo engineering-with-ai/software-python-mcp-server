@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/gitlab/pipeline-status/engineering-with-ai/software-python-mcp-server?branch=main&logo=gitlab)
 ![](https://gitlab.com/engineering-with-ai/software-python-mcp-server/badges/main/coverage.svg)
-![](https://img.shields.io/badge/3.14.1-gray?logo=python)
+![](https://img.shields.io/badge/3.13.2-gray?logo=python)
 ![](https://img.shields.io/badge/0.10.9-gray?logo=uv)
 ![](https://img.shields.io/badge/5.0.0-gray?logo=neo4j)
 ![](https://img.shields.io/badge/16.0.0-white?logo=postgresql)
